@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aashutosh kalauni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashutosh kalauni" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hamster_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamster_01" height="30" width="40" /></a>
-<a href="https://fb.com/aashu tosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashu tosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Aashutosh Kalauni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashutosh kalauni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/Hamster_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamster_01" height="30" width="40" /></a>
+<a href="https://fb.com/Aashu Tosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashu tosh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hamster_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamster_001" height="30" width="40" /></a>
 </p>
 
