@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://imgs.search.brave.com/cwi3tSeDbDQ85ugIYXk3p9t-fNn_Nr5tNaJsdZfE5Tk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYWdv/cmEtc3lzdGVtcy5j/b20vdXBsb2Fkcy8x/TllkNlQ3eTNra2k0/ZWg5UDNsbFoza2l6/ZVFIU0dXSi53ZWJw"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Aashutosh</h1>
 <h3 align="center">A passionate developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/-9WKxM1sLoBq8WtBqkXj57SfSmfwifhDk_KUQ9y-To4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXNp/Z25lci5naWY.gif">
