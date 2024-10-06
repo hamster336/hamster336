@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgs.search.brave.com/cwi3tSeDbDQ85ugIYXk3p9t-fNn_Nr5tNaJsdZfE5Tk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYWdv/cmEtc3lzdGVtcy5j/b20vdXBsb2Fkcy8x/TllkNlQ3eTNra2k0/ZWg5UDNsbFoza2l6/ZVFIU0dXSi53ZWJw"/>
+  <img src="https://i.pinimg.com/originals/91/4c/0e/914c0efb29d670b9b1ec182d9f25dbc7.jpg"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Aashutosh</h1>
