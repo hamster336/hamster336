@@ -12,40 +12,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35" height="35"/>
   </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35"/>
   </a>
 </p>
